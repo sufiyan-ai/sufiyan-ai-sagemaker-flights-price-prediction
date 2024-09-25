@@ -1,6 +1,6 @@
 # End-to-End Regression Project using AWS SageMaker
 
-![Flight Price Prediction](background.jpg)
+![Flight Price Prediction](Screenshot.png)
 
 ## Link: [Flight Price Prediction Web App](https://sufiyan-ai-sagemaker-flights-price-prediction-cx7bl2f9eknb3jpw.streamlit.app/)
 
